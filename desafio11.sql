@@ -13,4 +13,5 @@ musica.titulo LIKE '%Streets%'
 OR musica.titulo LIKE '%Her Own%'
 OR musica.titulo LIKE '%Inner Fire%'
 OR musica.titulo LIKE '%Silly%'
-OR musica.titulo LIKE '%Circus%';
+OR musica.titulo LIKE '%Circus%'
+ORDER BY musica.titulo;

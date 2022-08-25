@@ -1,4 +1,4 @@
-# <h1 align="center"> One For All </h1>
+# <h1 align="center"> ⚔️ One For All ⚔️ </h1>
 
 
 ## Descrição:
@@ -17,12 +17,10 @@ strings, operações e consultas compostas.</p>
 ###
 
 <div align="left">
-<img src="https://ccie.tv/content/images/2019/08/docker-5.svg" height="60" width="60" alt="react
+<img src="https://ccie.tv/content/images/2019/08/docker-5.svg" height="60" alt="react
 logo"/>
-<img src="https://mpng.subpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-
-5b098c6ebad6d7.7316225815273524307653.jpg" height="60" width="60" alt="SQL_Logo"/>
-<img height="60" width="60" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-
-logo.png" att=”MySQL_Logo”/>
+<img src="https://mpng.subpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" height="50" alt="SQLlogo"/>
+<img height="60" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" att=”MySQL_Logo”/>
 
 <p text-align="justify">SQL foi a linguagem utilizada para a construção das queries, enquanto o MySQL
 Workbench permitiu a manipulação e visualização das tabelas. Com o Docker aplicação foi
@@ -52,3 +50,13 @@ conteinerizada de forma que sua sua execução acontencesse em um ambiente isola
  - Criar e modelar tabelas com base em um diagrama ER;
  - Normalizar o banco de dados seguindo as três primeiras Formas Normais.
 ```
+
+## Estrutura de tabelas sem normalização (disponibilizadas pela Trybe)
+
+![image](https://user-images.githubusercontent.com/98190806/186674289-030e785f-2d90-4f73-b2a6-b1db26542112.png)
+
+## Modelo Entidade-Relacionamento normalizado
+
+![image](https://user-images.githubusercontent.com/98190806/186674406-08a7f2b5-0f4a-4f07-b3fa-0bd79070da9d.png)
+
+
